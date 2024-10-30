@@ -5,3 +5,5 @@ second line at feature branch
 merge test
 
 new merge line
+
+added merge test line
