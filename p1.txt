@@ -1,1 +1,3 @@
 Merge one
+
+second line at feature branch
